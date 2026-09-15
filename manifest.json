@@ -1,0 +1,202 @@
+{
+  "version": "1.0",
+  "count": 28,
+  "monsters": [
+    {
+      "speciesId": "MON001",
+      "nameTh": "เพลิงน้อย",
+      "element": "ไฟ",
+      "stage": 1,
+      "path": "assets/monsters/fire/stage-1/MON001.png"
+    },
+    {
+      "speciesId": "MON101",
+      "nameTh": "เพลิงพริ้ว",
+      "element": "ไฟ",
+      "stage": 2,
+      "path": "assets/monsters/fire/stage-2/MON101.png"
+    },
+    {
+      "speciesId": "MON201",
+      "nameTh": "อัคนีศึก",
+      "element": "ไฟ",
+      "stage": 3,
+      "path": "assets/monsters/fire/stage-3/MON201.png"
+    },
+    {
+      "speciesId": "MON301",
+      "nameTh": "จักรพรรดิอัคนี",
+      "element": "ไฟ",
+      "stage": 4,
+      "path": "assets/monsters/fire/stage-4/MON301.png"
+    },
+    {
+      "speciesId": "MON002",
+      "nameTh": "หยดน้อย",
+      "element": "น้ำ",
+      "stage": 1,
+      "path": "assets/monsters/water/stage-1/MON002.png"
+    },
+    {
+      "speciesId": "MON102",
+      "nameTh": "วารีเพื่อนใจ",
+      "element": "น้ำ",
+      "stage": 2,
+      "path": "assets/monsters/water/stage-2/MON102.png"
+    },
+    {
+      "speciesId": "MON202",
+      "nameTh": "ธาราพิทักษ์",
+      "element": "น้ำ",
+      "stage": 3,
+      "path": "assets/monsters/water/stage-3/MON202.png"
+    },
+    {
+      "speciesId": "MON302",
+      "nameTh": "จ้าวสมุทรา",
+      "element": "น้ำ",
+      "stage": 4,
+      "path": "assets/monsters/water/stage-4/MON302.png"
+    },
+    {
+      "speciesId": "MON003",
+      "nameTh": "ใบอ่อน",
+      "element": "ธรรมชาติ",
+      "stage": 1,
+      "path": "assets/monsters/nature/stage-1/MON003.png"
+    },
+    {
+      "speciesId": "MON103",
+      "nameTh": "พฤกษาพองาม",
+      "element": "ธรรมชาติ",
+      "stage": 2,
+      "path": "assets/monsters/nature/stage-2/MON103.png"
+    },
+    {
+      "speciesId": "MON203",
+      "nameTh": "วนาอัศวิน",
+      "element": "ธรรมชาติ",
+      "stage": 3,
+      "path": "assets/monsters/nature/stage-3/MON203.png"
+    },
+    {
+      "speciesId": "MON303",
+      "nameTh": "ราชาพฤกษา",
+      "element": "ธรรมชาติ",
+      "stage": 4,
+      "path": "assets/monsters/nature/stage-4/MON303.png"
+    },
+    {
+      "speciesId": "MON004",
+      "nameTh": "ช็อตจิ๋ว",
+      "element": "สายฟ้า",
+      "stage": 1,
+      "path": "assets/monsters/lightning/stage-1/MON004.png"
+    },
+    {
+      "speciesId": "MON104",
+      "nameTh": "ฟ้าแลบจ้อย",
+      "element": "สายฟ้า",
+      "stage": 2,
+      "path": "assets/monsters/lightning/stage-2/MON104.png"
+    },
+    {
+      "speciesId": "MON204",
+      "nameTh": "อสนีพิทักษ์",
+      "element": "สายฟ้า",
+      "stage": 3,
+      "path": "assets/monsters/lightning/stage-3/MON204.png"
+    },
+    {
+      "speciesId": "MON304",
+      "nameTh": "จ้าวพายุสายฟ้า",
+      "element": "สายฟ้า",
+      "stage": 4,
+      "path": "assets/monsters/lightning/stage-4/MON304.png"
+    },
+    {
+      "speciesId": "MON005",
+      "nameTh": "ดินปั้น",
+      "element": "ดิน",
+      "stage": 1,
+      "path": "assets/monsters/earth/stage-1/MON005.png"
+    },
+    {
+      "speciesId": "MON105",
+      "nameTh": "ศิลาน้อย",
+      "element": "ดิน",
+      "stage": 2,
+      "path": "assets/monsters/earth/stage-2/MON105.png"
+    },
+    {
+      "speciesId": "MON205",
+      "nameTh": "ภูผาผู้กล้า",
+      "element": "ดิน",
+      "stage": 3,
+      "path": "assets/monsters/earth/stage-3/MON205.png"
+    },
+    {
+      "speciesId": "MON305",
+      "nameTh": "มหาราชธรณี",
+      "element": "ดิน",
+      "stage": 4,
+      "path": "assets/monsters/earth/stage-4/MON305.png"
+    },
+    {
+      "speciesId": "MON006",
+      "nameTh": "แสงใส",
+      "element": "แสง",
+      "stage": 1,
+      "path": "assets/monsters/light/stage-1/MON006.png"
+    },
+    {
+      "speciesId": "MON106",
+      "nameTh": "รุ่งอรุณ",
+      "element": "แสง",
+      "stage": 2,
+      "path": "assets/monsters/light/stage-2/MON106.png"
+    },
+    {
+      "speciesId": "MON206",
+      "nameTh": "สุริยาพิทักษ์",
+      "element": "แสง",
+      "stage": 3,
+      "path": "assets/monsters/light/stage-3/MON206.png"
+    },
+    {
+      "speciesId": "MON306",
+      "nameTh": "เทวาแห่งรุ่งโรจน์",
+      "element": "แสง",
+      "stage": 4,
+      "path": "assets/monsters/light/stage-4/MON306.png"
+    },
+    {
+      "speciesId": "MON007",
+      "nameTh": "เงาจิ๋ว",
+      "element": "ความมืด",
+      "stage": 1,
+      "path": "assets/monsters/dark/stage-1/MON007.png"
+    },
+    {
+      "speciesId": "MON107",
+      "nameTh": "รัตติกาลน้อย",
+      "element": "ความมืด",
+      "stage": 2,
+      "path": "assets/monsters/dark/stage-2/MON107.png"
+    },
+    {
+      "speciesId": "MON207",
+      "nameTh": "ราชันราตรี",
+      "element": "ความมืด",
+      "stage": 3,
+      "path": "assets/monsters/dark/stage-3/MON207.png"
+    },
+    {
+      "speciesId": "MON307",
+      "nameTh": "จ้าวเงาจันทรา",
+      "element": "ความมืด",
+      "stage": 4,
+      "path": "assets/monsters/dark/stage-4/MON307.png"
+    }
+  ]
+}
